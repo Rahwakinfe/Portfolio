@@ -1,10 +1,11 @@
-# Name of project
+# Portifolio
 
-> A longer description
+> This is my first personal website portfolio on github. It shows what skills i
+> have, what projects i have done so far, as a junior web developer.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Portifolio](#portifolio)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
