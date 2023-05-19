@@ -6,20 +6,20 @@
 
 ### Their Role
 
-- **Bio**: Mary is a junior web developer, She enjoys working on various
-  projects and continuously learning new technologies. Jane is passionate about
-  clean code and building websites.
+- **Bio**: ruta is a junior web developer, She enjoys working on various
+  projects and continuously learning new technologies.ruta is passionate about
+  coding and making new projects everytime.
 - **Needs/Goals**:
-  - Improve her coding skills and stay up-to-date with the latest technologies.
+  - learning new skills and improving coding skills and stay up-to-date.
   - Contribute to open source projects and collaborate with other web
     developers.
-  - Show her work and projects to employers and clients.
+  - Show the projects she has made to her employers and clients.
 - **Frustrations**:
-  - Limited resources for learning new technologies.
+  - learning new technologies.
   - Difficulty finding relevant open source projects to contribute to.
   - Lack of a professional portfolio to demonstrate her skills and projects.
 - **Scenario 1**:
-  - Mary wants to learn a new JavaScript framework and is looking for tutorials,
+  - Ruta wants to learn a new JavaScript framework and is looking for tutorials,
     articles, and sample projects to explore and practice. She visits my GitHub
     portfolio and finds a curated list of resources, along with your own
     projects implemented using the framework. This helps Mary in her learning
@@ -31,18 +31,18 @@
 
 ### Their Role
 
-- **Bio**: John is a hiring manager at IBM company. He is responsible for
-  reviewing job applications, conducting interviews, and selecting candidates
-  for open positions.
+- **Bio**: Miki is a hiring manager at amazon. He work on HR and he is
+  responsible for reviewing job applications, do interviews, and selecting
+  candidates for open positions.
 - **Needs/Goals**:
-  - Identify candidates with relevant skills and experience.
-  - Evaluate candidates based on their previous projects and contributions.
+  - candidates with best skills and experience.
+  - Evaluate candidates based on their projects that they made and
+    contributions.
 - **Frustrations**:
   - Lack of detailed information about a candidate's previous work.
   - Difficulty in assessing the quality of code and project implementation. .
 - **Scenario 1**:
-  - John receives a job application from a web developer and decides to review
-    their GitHub portfolio. He visits GitHub profile and finds a well-organized
-    collection of the candidate's projects. This allows John to assess the
-    candidate's skills and coding abilities accurately, increasing the chances
-    of the candidate progressing to the next stage of the hiring process.
+  - John receives a job application from a web developer and the frist thing he
+    do is reviewing their GitHub portfolio. He visits GitHub profile and finds a
+    well-organized collection of the candidate's projects. This allows John to
+    assess the candidate's skills and coding abilities accurately,
