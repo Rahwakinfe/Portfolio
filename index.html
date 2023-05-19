@@ -2,11 +2,107 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>project!</title>
-
-    <link href="./styles/index.css" rel="stylesheet" />
+    <title>rahwa Portfolio Website</title>
+    <link rel="stylesheet" href="./styles/index.css" />
+    <link
+      rel="stylesheet"
+      href="./styles/index.css"
+      integrity="sha256-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdxFgVK/Kvc="
+      crossorigin="anonymous"
+    />
+    <!-- Update these with your own fonts -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Lora:400,700%7CRoboto+Slab:400,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css" />
   </head>
-  <body></body>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="./index.html">Home</a></li>
+          <li><a href="./pages/aboutme.html">about me</a></li>
+          <li><a href="./pages/contact.html">Contact</a></li>
+        </ul>
+      </nav>
+      <div class="logo">
+        <img src="img/devjane.png" alt="" />
+      </div>
+    </header>
+    <!-- Introduction -->
+    <section class="intro" id="home">
+      <h1 class="section__title section__title--intro">
+        Hi, I am <strong>Rahwa</strong>
+      </h1>
+      <p class="section__subtitle section__subtitle--intro">web developer</p>
+      <img
+        src="./public/new.jpeg"
+        alt="a picture of Rahwa "
+        class="intro__img"
+      />
+    </section>
+    <!-- My services -->
+    <section class="my-services" id="services">
+      <h2 class="section__title section__title--services">What I do</h2>
+      <div class="services">
+        <div class="service">
+          <h3>modeling</h3>
+          <p>
+            modeling has been my passion since i was a child, i do photo
+            modeling, and run way modeling as well.
+          </p>
+        </div>
+        <!-- / service -->
+        <div class="service">
+          <h3>Marketing</h3>
+          <p>
+            i have bachelor degree in marketing management, i also work as a
+            marketing assistant for almost 2 years
+          </p>
+        </div>
+        <!-- / service -->
+        <div class="service">
+          <h3>programmer</h3>
+          <p>
+            i am learning web development. course soon i will be a junior web
+            developer.
+          </p>
+        </div>
+        <!-- / service -->
+      </div>
+      <!-- / services -->
+      <a href="https://github.com/Rahwakinfe?tab=repositories" class="btn"
+        >My Work</a
+      >
+    </section>
+    <!-- About me -->
+    <section class="about-me" id="about">
+      <h2 class="section__title section__title--about">Who I am</h2>
+      <p class="section__subtitle section__subtitle--about">
+        young women who is passionate about her next life
+      </p>
+      <div class="about-me__body">
+        <p>
+          i am Rahwa 24 years old, i am passionate about modeling and
+          programming at the same time. i have customer service experience for 4
+          years and also i have marketing assistance experience for 2 years.
+        </p>
+      </div>
+      <img
+        src="./public/imag.jpeg"
+        alt="modeling picture"
+        class="about-me__img"
+      />
+    </section>
+    <!-- Footer -->
+    <footer class="footer">
+      <!-- replace with your own email address -->
+      <a href="rahwa2020k@gmail.com" class="footer__link"
+        >rahwa2020k@gmail.com</a
+      >
+    </footer>
+    <script src="js/index.js"></script>
+  </body>
 </html>
