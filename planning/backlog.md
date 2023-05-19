@@ -1,30 +1,35 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+## `Rahwa's portfolio` page
 
-## Must-Haves
+### Must-Have
 
-> these are necessary for basic usability
+- [ ] As a user I want to see a header
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I can read the title and background image of the page
 
-## Should-Haves
+- [ ] As a user I can read an introduction about person's portfolio
 
-> these will complete the user experience, but are not necessary
+- [ ] As a user I want to see information about work experience
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+  - section work will be below what i do
 
-## Could-Haves
+- [ ] As a user I can read about exprience of person
 
-> would be really cool ... if there's time
+  - there is a my work before my exprience section.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I can to learn more about person
+
+  - there is a footer with email.
+
+### Should Haves
+
+- [ ] As a user, I want the website to be interactive and user usability
+
+  - the site will contain interesting simple design will be user-friendly
+
+### Could Haves
+
+- [ ] I want to get in touch with someone quickly
+
+  - There is a contact form in the header.
